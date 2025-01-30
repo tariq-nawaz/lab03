@@ -1,2 +1,5 @@
 console.WriteLine("tariq nawaz");
-console.writeLine("roll no 24-st-057");
+console.writeLine("roll no 24-st-057")
+int a=20;
+int b=30;
+int result =a+b;
