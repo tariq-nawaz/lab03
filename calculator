@@ -2,4 +2,7 @@ console.WriteLine("tariq nawaz");
 console.writeLine("roll no 24-st-057");
 int a=20;
 int b=30;
+division
+int result=a/b;
 int result=a*b;
+ multipication
